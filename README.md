@@ -1,0 +1,2 @@
+# JavaCodes
+Daily Java codes
